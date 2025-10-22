@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+}
+
+footer{
+    background-color: aquamarine;
+}
+
+main{
+    background-color: aliceblue;
+    font-family: italic;
+    color: blueviolet;
+}
